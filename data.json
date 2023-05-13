@@ -5,23 +5,26 @@
     "avatar": "https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg",
     "links": [
         {
-            "title": "Twitter",
-            "url":"www.google.com",
-            "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
+            "title": "My Portfolio-Website",
+            "href":"https://portfolio-asthapandey.vercel.app/",
+            "image":"https://portfolio-asthapandey.vercel.app/static/media/AsthaImageCrop.585b95069887f9e72406.jpg"
         },
         {
             "title": "fb",
-             "url" :"www.meta.com"
+             "href" :"www.meta.com",
+             "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         }
     ],
     "socials": [
         {
             "title": "Github",
-            "url":"www.google.com"
+            "href":"www.google.com",
+            "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         },
         {
             "title": "linkeidn",
-             "url" :"www.meta.com"
+             "href" :"www.meta.com",
+             "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         }
     ]
 
