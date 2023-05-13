@@ -37,6 +37,11 @@
     ],
     "social": [
         {
+            "title": "Twitter",
+            "href":"https://twitter.com",
+            "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
+        },
+        {
             "title": "Github",
             "href":"https://github.com/pandeyastha",
             "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
