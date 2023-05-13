@@ -1,7 +1,7 @@
 import Image from "next/image";
 import data from "../data.json"
 import Socials from "./components/Socials";
-
+import Footer from "./components/Footer";
 
 function LinkCard( {href, title, image
 }: {
@@ -38,6 +38,7 @@ function LinkCard( {href, title, image
 
 export default function Home() {
   return (
+    <div className="min-h-screen bg-gradient-to-r from-red-200 via-red-300 to-yellow-200">
     <div className="flex items-center flex-col mx-auto w-full justify-center mt-16 px-8">
       <Image
       className="rounded-full "
@@ -49,7 +50,8 @@ export default function Home() {
       <h1 className="font-bold mt-4 mb-8 text-xl">{data.name}</h1>
     {data.links.map((link) => (<LinkCard key={link.href} {...link} />))}
       <Socials />
-
+      <Footer />
+    </div>
     </div>
   )
 }

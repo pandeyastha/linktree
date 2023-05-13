@@ -4,7 +4,7 @@ import { FaTwitter, FaInstagram,FaGithub, FaLinkedin, FaFacebook, FaEnvelope, Fa
 
 const Socials = () => {
     return (
-    <div className="flex items-center gap-4 mt-8 text-white">
+    <div className="flex items-center gap-4 mt-8 text-white mb-5">
         {data.social.map((social) => (
           <a
             aria-label={`${social.title} link`}
