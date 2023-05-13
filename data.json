@@ -20,7 +20,17 @@
              "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         },
         {
-            "title": "bect",
+            "title": "peta",
+             "href" :"www.meta.com",
+             "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
+        },
+        {
+            "title": "besdksjfkdfct",
+             "href" :"www.meta.com",
+             "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
+        },
+        {
+            "title": "mnvcvacsbect",
              "href" :"www.meta.com",
              "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         }
@@ -28,27 +38,27 @@
     "social": [
         {
             "title": "Github",
-            "href":"www.google.com",
+            "href":"https://github.com/pandeyastha",
             "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         },
         {
             "title": "Linkedin",
-             "href" :"www.meta.com",
+             "href" :"https://www.linkedin.com/in/pandey-astha/",
              "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         },
         {
             "title": "Instagram",
-             "href" :"www.meta.com",
+             "href" :"https://www.instagram.com/_astha_pandey/",
              "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         },
         {
             "title": "Facebook",
-             "href" :"www.meta.com",
+             "href" :"https://www.facebook.com/astha.pandey.549221/",
              "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         },
         {
             "title": "Mail",
-             "href" :"www.meta.com",
+             "href" :"mailto:asthaswe@gmail.com",
              "image":"https://pbs.twimg.com/profile_images/1378469512010297348/2T3h6NuG_400x400.jpg"
         }
 

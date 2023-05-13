@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
-body{
-    background-image: linear-gradient(to right, #fc8181, #f6ad55, #fbd38d);
+head,
+body
+{
+   background-image: linear-gradient(to right, rgb(254, 202, 202),
+    rgb(252, 165, 165), rgb(254, 240, 138));
 }
