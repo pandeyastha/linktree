@@ -14,7 +14,9 @@ function LinkCard( {href, title, image
     className="flex items-center p-4 rounded-full w-full shadow-lg
      hover:shadow-xl transition-shadow  hover:scale-105 duration-300
        mb-3 bg-white bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100 
-       border border-gray-300 max-w-3xl">
+       border border-gray-300 max-w-3xl"
+       target="_blank"
+       rel="noopener noreferrer">
       <div className="flex text-center w-full ">
       <div className="w-10 h-10">
       {
